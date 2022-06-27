@@ -36,3 +36,12 @@ main {
   width: 100%;
   max-width: 300px;
 }
+
+.rating span {
+  color: #ffc000;
+}
+
+.btn-primary {
+  background-color: #f0c040;
+  color: black;
+}
